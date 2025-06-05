@@ -2,7 +2,7 @@
 
     This project is an implementation of a simplified version of the Git version control system, named Gitlet. It was developed as a practical exercise to understand the core concepts of version control, file system manipulation, object serialization, and graph algorithms (like finding the Lowest Common Ancestor).
 
-    **Developer**: Lyrine Yang [https://lyrineyang.github.io/]
+    **Developer**: [Lyrine Yang](https://lyrineyang.github.io/)
 
     ## Project Goal
 
