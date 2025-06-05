@@ -120,11 +120,11 @@
     ---
     ## Environment and Compatibility
     
-     **Operating System**: This project has been successfully compiled and run on macOS.
+    **Operating System**: This project has been successfully compiled and run on macOS.
     
-      **Java Version**: The project is written in Java and requires Java Development Kit (JDK) version 24 or higher for compilation and execution. 
+    **Java Version**: The project is written in Java and requires Java Development Kit (JDK) version 24 or higher for compilation and execution. 
     
-     **Course Testing**: This project has successfully passed all automated tests provided by the [Specify Course Name, e.g., CS61B] course on Gradescope, achieving a full score of 1600 out of 1600 points. This validates its functional correctness and completeness according to the project specifications.
+    **Course Testing**: This project has successfully passed all automated tests provided by the [CS61B](https://sp21.datastructur.es/materials/proj/proj2/proj2) course on Gradescope, achieving a full score of 1600 out of 1600 points. This validates its functional correctness and completeness according to the project specifications.
     
     ## How to Run 
     
