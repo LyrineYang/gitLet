@@ -149,7 +149,7 @@
     
     Thanks to my collaborator [Yuteng Huang](https://github.com/isHarryh) who leads me to be a better programmer. 
     
-    Thanks to [Noah He](https://github.com/Noah-hjl) and shLing supports me. Thanks to Jiang Zhuo and bzWang who brings me a lot of fun.
+    Thanks to [Noah He](https://github.com/Noah-hjl) and shLin supports me. Thanks to Jiang Zhuo and bzWang who brings me a lot of fun.
     
      Thanks to professor Josh Hug and all CS61b's staff bring me this excellent project.
     
